@@ -1,0 +1,1 @@
+{"version":1,"defects":{"tests\\CartTest::test_if_cart_not_empty":5,"tests\\validate\\ValidateTest::test_if_validate":5},"times":{"tests\\CartTest::test_if_cart_is_empty":0.003,"tests\\CartTest::test_if_cart_not_empty":0.001,"tests\\validate\\ValidateTest::test_if_validate":0,"tests\\validate\\Validate2Test::test_if_not_validate":0.003}}
