@@ -18,6 +18,17 @@ class CartTest extends testCase
         $cart = new Cart();
         $cart->add(new Product);
         $this->assertNotEmpty($cart->getCart());
+        
+    }
+
+    public function test_have_anything()
+    {
+        $x = 10;
+        $y = $x + 1;
+
+        $this->assertEquals("11", $y);
+
+
     }
     
 }
